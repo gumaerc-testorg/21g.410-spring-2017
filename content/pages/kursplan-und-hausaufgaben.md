@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Kursplan und Hausaufgaben
 uid: 5ee993d0-60f8-69d7-baf3-75dbf6b47ad4
 ---

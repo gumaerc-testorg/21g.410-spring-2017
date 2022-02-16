@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Texte und Materialien
 uid: f2c7a12e-d877-5267-5e80-766a746597a6
 ---

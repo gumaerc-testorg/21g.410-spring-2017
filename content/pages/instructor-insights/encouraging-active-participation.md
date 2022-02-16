@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: a6d45f02-3c35-8471-8e33-a3c69474b7c4
 title: Encouraging Active Participation
 uid: 40c7d220-c435-49d3-9f90-12823f1edf36

@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: a6d45f02-3c35-8471-8e33-a3c69474b7c4
 title: Using Hot Button Issues to Develop Critical Thinking Skills
 uid: 1d53c84a-78da-e397-83df-6123ed7a3ca1

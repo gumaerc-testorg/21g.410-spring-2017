@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: a6d45f02-3c35-8471-8e33-a3c69474b7c4
 ---
@@ -39,20 +41,6 @@ HASS ![](/images/educator/icon-question-hass.png)
 ### Offered
 
 Every other spring semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Three rows of tablet armchairs facing a black chalkboard. There is a classroom door on the right wall.]({{< resource_file 8116ecd2-e45e-6461-fedc-173ee8228773 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Seminar
-    
-    Class sessions were held in a room equipped with tablet armchairs, chalkboards, and an AV system.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
