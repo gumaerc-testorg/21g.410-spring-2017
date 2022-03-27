@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Engaging in Reflective Practice
 parent_type: CourseSection
+parent_uid: 73d29b69-4214-3dfe-66c9-5a4f4bba2381
 resourcetype: Image
 title: Peter2.jpg
 uid: 77d6a566-71d0-00aa-7e9f-006bd751c62a

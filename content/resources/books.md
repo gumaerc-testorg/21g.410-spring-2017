@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: When There Is No Textbook for What You Want to Teach
 parent_type: CourseSection
+parent_uid: ac374bad-ba45-d566-dd86-900590768636
 resourcetype: Image
 title: books.jpg
 uid: 114f8693-9391-a87f-057e-025f353fa839
