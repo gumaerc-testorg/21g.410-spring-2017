@@ -1,22 +1,22 @@
 ---
 content_type: page
-layout: instructor_insights
-learning_resource_types: []
-ocw_type: CourseSection
-parent_title: Instructor Insights
-parent_type: ThisCourseAtMITSection
+description: 'In this section, Peter Weise notes there was no textbook available for
+  the kind of course he wanted to teach in 21G.410 Advanced German: Professional Communication.
+  As a result, he designed his own curriculum, turning to authentic language materials
+  to help teach communicative elements of German across a wide variety of professional
+  and research-based settings.  '
+draft: false
 parent_uid: a6d45f02-3c35-8471-8e33-a3c69474b7c4
 title: When There Is No Textbook for What You Want to Teach
 uid: ac374bad-ba45-d566-dd86-900590768636
 ---
-
-_In this section, Peter Weise notes there was no textbook available for the kind of course he wanted to teach in_ 21G.410 Advanced German: Professional Communication_. As a result, he designed his own curriculum, turning to authentic language materials to help teach communicative elements of German across a wide variety of professional and research-based settings._
+_In this section, Peter Weise notes there was no textbook available for the kind of course he wanted to teach in_ 21G.410 Advanced German: Professional Communication. As a result, he designed his own curriculum, turning to authentic language materials to help teach communicative elements of German across a wide variety of professional and research-based settings.
 
 {{< quote "I use language to explain culture …" "— Peter Weise" >}}
 
 In this course, students read German news, write resumes, and engage with other forms of authentic language materials. I have structured the course like this because there was no textbook for the kind of learning experience I wanted to create in _21G.410 Advanced German: Professional Communication._ It’s not a course geared toward professionals in a specific field. There are textbooks for that kind of course. Rather, the materials in this course need to speak to students regardless of whether their major is biology, architecture, urban planning, or physics.
 
-![German textbooks and cds on book shelf.]({{< resource_file 114f8693-9391-a87f-057e-025f353fa839 >}})
+{{< resource 114f8693-9391-a87f-057e-025f353fa839 >}}
 
 A selection of German language materials in Peter Weise’s office on the MIT campus.
 
