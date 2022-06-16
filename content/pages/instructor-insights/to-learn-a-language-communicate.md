@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Peter Weise shares his insights about the importance
+  of authentic communication in language-learning.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

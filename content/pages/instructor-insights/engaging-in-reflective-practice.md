@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: In this section, Peter Weise discusses how he routinely engages in reflective
+  practice at the end of the semester. He notes that he makes use of a student questionnaire
+  to help him evaluate aspects of his teaching, and that he pays particular attention
+  to how time was used during the course and the relevancy of the course content.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -10,7 +14,7 @@ title: Engaging in Reflective Practice
 uid: 73d29b69-4214-3dfe-66c9-5a4f4bba2381
 ---
 
-![Man sitting at desk, holding a pen, and looking toward camera. Computer and keyboard on desk.]({{< resource_file 77d6a566-71d0-00aa-7e9f-006bd751c62a >}})
+{{< resource 77d6a566-71d0-00aa-7e9f-006bd751c62a >}}
 
 Peter Weise at work in his office.
 

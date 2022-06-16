@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: In this section, Peter Weise shares how he uses video recordings and
+  feedback from German native speakers to help students reflect on their language
+  skills.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

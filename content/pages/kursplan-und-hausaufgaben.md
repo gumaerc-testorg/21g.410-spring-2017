@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section lists the topics and homework assignments by session for
+  the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Kursplan und Hausaufgaben

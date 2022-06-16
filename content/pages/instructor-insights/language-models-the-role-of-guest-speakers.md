@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: In this section, Peter Weise discusses the role of guest speakers in
+  the course and shares tips for incorporating guest speakers successfully into a
+  language curriculum.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

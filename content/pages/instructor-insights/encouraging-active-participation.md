@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'In this section, Peter Weise shares two strategies he uses to engage
+  students in communicative activities during the course: 1) emphasizing the value
+  of making mistakes and 2) varying the course structure to keep things interesting.'
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

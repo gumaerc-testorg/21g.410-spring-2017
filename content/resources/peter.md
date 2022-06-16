@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21g-410-advanced-german-professional-communication-spring-2017/50eeb089f274a5232b319f119127cfaf_peter.jpg
+file: /courses/21g-410-advanced-german-professional-communication-spring-2017/50eeb089f274a5232b319f119127cfaf_peter.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

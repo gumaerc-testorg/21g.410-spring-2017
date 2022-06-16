@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains the readings and other materials for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Texte und Materialien
@@ -48,9 +49,9 @@ VDSDortmund. "[Tag der deutschen Sprache 2010](https://www.youtube.com/watch?v=c
 {{< tdopen >}}
 
 
-[Anleitung für die tägliche Besprechung aktueller Nachrichten (PDF)]({{< baseurl >}}/resources/21g_410s17_w01_m01)
+{{% resource_link 3ea94c59-a883-2d0f-dfe7-3ed3c7a73930 "Anleitung für die tägliche Besprechung aktueller Nachrichten (PDF)" %}}
 
-[Kausalität (PDF)]({{< baseurl >}}/resources/21g_410s17_w01_m02)
+{{% resource_link 0104e537-7c07-b480-9100-78177b05a4aa "Kausalität (PDF)" %}}
 
 [Das Denglisch -Quiz](http://www.spiegel.de/quiztool/quiztool-58341.html). Wie gut können Sie Denglisch?
 
@@ -88,9 +89,9 @@ Ulrich Greiner. "[Ist Deutsch noch zu retten?](http://www.zeit.de/2010/27/Deutsc
 {{< tdopen >}}
 
 
-[Diskursverbindungen (PDF)]({{< baseurl >}}/resources/21g_410s17_w02_m04)
+{{% resource_link fcf1fd62-7ebd-a833-12a4-62e0d2c7ea87 "Diskursverbindungen (PDF)" %}}
 
-[Redemittel für Diskussionen (PDF)]({{< baseurl >}}/resources/21g_410s17_w02_m03)
+{{% resource_link c65b1202-19f8-af55-8457-239bf08bbcb2 "Redemittel für Diskussionen (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -104,9 +105,9 @@ Woche 3
 Markus Dettmer und Frank Dohmen. "[Frei schwebend in der Wolke](http://www.spiegel.de/spiegel/print/d-83865244.html)." Wirtschaft, Juni 2012.
 {{< tdclose >}}
 {{< tdopen >}}
-[Redemittel zur Versprachlichung von Schaubildern (PDF)]({{< baseurl >}}/resources/21g_410s17_w03_m05)
+{{% resource_link 8289e2c8-040f-18ac-c47c-8105e1cd2175 "Redemittel zur Versprachlichung von Schaubildern (PDF)" %}}
 
-[Theorie: Nomenkomposita (PDF)]({{< baseurl >}}/resources/21g_410s17_w03_m06) 
+{{% resource_link 86eee502-81f5-feba-e9b9-f3df9431efc7 "Theorie: Nomenkomposita (PDF)" %}} 
 
 
 {{< tdclose >}}
@@ -117,14 +118,14 @@ Markus Dettmer und Frank Dohmen. "[Frei schwebend in der Wolke](http://www.spie
 Woche 4
 {{< tdclose >}}
 {{< tdopen >}}
-[Lesepaket für Tag 7 (PDF)]({{< baseurl >}}/resources/21g_410s17_w04_m08)
+{{% resource_link 65949c55-eac2-2d92-ea83-7bc9555ba0f1 "Lesepaket für Tag 7 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Theorie: Nominalisierungen (PDF)]({{< baseurl >}}/resources/21g_410s17_w04_m09)
+{{% resource_link 6deb04f2-9291-fe21-fcd5-fa075de6d83e "Theorie: Nominalisierungen (PDF)" %}}
 
-[Theorie: Relativsätze (PDF)]({{< baseurl >}}/resources/21g_410s17_w04_m10)
+{{% resource_link 9288125b-4dd1-45e4-7ce1-7fc945ee90f1 "Theorie: Relativsätze (PDF)" %}}
 
-[Struktur: Beschreibung von Schaubildern und Diagrammen]({{< baseurl >}}/resources/21g_410s17_w04_m07)
+{{% resource_link 7282fdd5-ff08-5970-df7f-2fe24bb6bbb5 "Struktur: Beschreibung von Schaubildern und Diagrammen" %}}
 
 
 {{< tdclose >}}
@@ -137,7 +138,7 @@ Woche 5
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Über mein Studium sprechen (PDF)]({{< baseurl >}}/resources/21g_410s17_w05_m11)
+{{% resource_link 14de6abd-99d3-405d-b292-dd58ab1cc182 "Über mein Studium sprechen (PDF)" %}}
 
 [Webseite der TU Darmstadt](https://www.tu-darmstadt.de/universitaet/selbstverstaendnis/index.de.jsp)
 
@@ -159,11 +160,11 @@ Nominalisierungen Uebungsgramm: \[ÜB\] 60–77
 Woche 6
 {{< tdclose >}}
 {{< tdopen >}}
-Flyer: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Physikstudium in Köln (PDF)](http://physik.uni-koeln.de/fileadmin/Downloads/Flyer_2015_Bachelor_Physik_web.pdf)
+Flyer: [Physikstudium in Köln (PDF)](http://physik.uni-koeln.de/fileadmin/Downloads/Flyer_2015_Bachelor_Physik_web.pdf)
 
-Broschüre: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Physikstudium in Zürich (PDF)](http://intranet.mnf.uzh.ch/fileadmin/DATA_Autoren/Dokumente/Inhalte/I_Studium/I.1_zukuenftige_Studierende/I.1.2_Studienfaecher/physik_2012.pdf)
+Broschüre: [Physikstudium in Zürich (PDF)](http://intranet.mnf.uzh.ch/fileadmin/DATA_Autoren/Dokumente/Inhalte/I_Studium/I.1_zukuenftige_Studierende/I.1.2_Studienfaecher/physik_2012.pdf)
 
-Flyer: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Mathematikstudium in Duisburg/Essen (PDF - 13.7MB)](https://www.uni-due.de/imperia/md/content/mathematik/mathflyer.pdf)
+Flyer: [Mathematikstudium in Duisburg/Essen (PDF - 13.7MB)](https://www.uni-due.de/imperia/md/content/mathematik/mathflyer.pdf)
 
 Broschüre: Mathematikstdium in Darmstadt
 
@@ -182,7 +183,7 @@ Flyer: Elektrotechnik und Informationstechnik in München
 
 \[ÜB\] Kapitel 5
 
-[Theorie: Passiv (PDF)]({{< baseurl >}}/resources/21g_410s17_w06_m15)
+{{% resource_link a57875c6-abf0-6b9d-8cb2-de84fd0e7904 "Theorie: Passiv (PDF)" %}}
 
 Theorie: Zustandspassive und Alternativen zum Passiv: Rankin, Wells. _Handbuch zur deutschen Grammatik._ Cengage Learning, 2016, pp. 195–197. ISBN: 978-1305078840.
 
@@ -197,11 +198,11 @@ Woche 7
 {{< tdopen >}}
 Text: Berufsbilder der Informatik
 
-[Text: Der Europäische Lebenslauf: Was ist das eigentlich? (PDF)]({{< baseurl >}}/resources/21g_410s17_w07_m21)
+{{% resource_link 78905178-eae5-48fe-241b-663e2dbe969e "Text: Der Europäische Lebenslauf: Was ist das eigentlich? (PDF)" %}}
 
-Text: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Der Europäische Lebenslauf: Instruktionen (PDF)](http://www.europass.at/fileadmin/dateien_redaktion/lebenslauf/CVInstructionsdt.pdf)
+Text: [Der Europäische Lebenslauf: Instruktionen (PDF)](http://www.europass.at/fileadmin/dateien_redaktion/lebenslauf/CVInstructionsdt.pdf)
 
-Text: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Der Europäische Lebenslauf: Beispiel (PDF)](https://www.jugendinfo.be/downloads/job/beispielCV_DE.pdf)
+Text: [Der Europäische Lebenslauf: Beispiel (PDF)](https://www.jugendinfo.be/downloads/job/beispielCV_DE.pdf)
 
 Formular: [Der Europäische Lebenslauf (DOC)](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjJ8cuFwOnXAhVr74MKHaC1A1QQFggwMAE&url=http%3A%2F%2Fwww.europass.at%2Ffileadmin%2Fdateien_redaktion%2Flebenslauf%2Flebenslauf_de.doc&usg=AOvVaw1jLLVg5eH1snoxzqXX3lWS)
 
@@ -210,9 +211,9 @@ Formular: [Der Europäische Lebenslauf (DOC)](https://www.google.com/url?sa=t&rc
 {{< tdopen >}}
 
 
-[Mid-semseter Feedback Email (PDF)]({{< baseurl >}}/resources/21g_410s17_w07_m17)
+{{% resource_link 78795962-d7c0-69a0-c931-213b6d8b6d4f "Mid-semseter Feedback Email (PDF)" %}}
 
-[Neue Redmittel für Diskussionen (PDF)]({{< baseurl >}}/resources/21g_410s17_w07_m16)
+{{% resource_link 8aacc121-2f8c-14a8-8663-af9f250b2c0a "Neue Redmittel für Diskussionen (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -232,9 +233,9 @@ Video: Step1702. "[Lebenslauf gesprochen](http://www.veoh.com/watch/v19264128f74
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Theorie: Genitive (PDF)]({{< baseurl >}}/resources/21g_410s17_w08_m22)
+{{% resource_link d4c5981c-2db5-3f93-2bae-87ce30c0b72a "Theorie: Genitive (PDF)" %}}
 
-[Zuhören und Notizen machen bei Vorträgen (PDF)]({{< baseurl >}}/resources/21g_410s17_w08_m23)
+{{% resource_link 7748e227-3ed3-ab9d-780e-bc04ae9cd886 "Zuhören und Notizen machen bei Vorträgen (PDF)" %}}
 
 \[ÜB\] Kapitel 6 (Konjunktiv II)
 
@@ -255,14 +256,14 @@ Text: [Energiewende soll Mitte Juni per Gesetz geregelt sein](http://www.contrat
 
 Text: Norbert Röttgen. "[Der Masterplan für die deutsche Energiewende](http://www.faz.net/aktuell/wirtschaft/energiepolitik-der-masterplan-fuer-die-deutsche-energiewende-11558633.html)." Frankfurter Allgemeine Zeitung, 11 Dezember 2011.
 
-Link: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Beschlüsse des Bundeskabinetts zur Energiewende vom 6. Juni 2011. (PDF)](https://www.nachhaltigkeit.info/media/1326187886phpeJPyvC.pdf)
+Link: [Beschlüsse des Bundeskabinetts zur Energiewende vom 6. Juni 2011. (PDF)](https://www.nachhaltigkeit.info/media/1326187886phpeJPyvC.pdf)
 
 Link: [Die Energiwende im Überblick (Bundsministerium für Umwelt)](https://www.bundesregierung.de/Content/DE/StatischeSeiten/Breg/Energiekonzept/0-Buehne/ma%C3%9Fnahmen-im-ueberblick.html)
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Aufgabe 1 zu "Energiewende" (PDF)]({{< baseurl >}}/resources/21g_410s17_w09_m24)
+{{% resource_link 085c49f7-ba3b-c4ec-ab59-6d615faa95a8 "Aufgabe 1 zu \"Energiewende\" (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -271,18 +272,18 @@ Link: [Die Energiwende im Überblick (Bundsministerium für Umwelt)](https://www
 Woche 10
 {{< tdclose >}}
 {{< tdopen >}}
-[Theorie: Diskurspartikel - Logische Verbindungen im Text (PDF)]({{< baseurl >}}/resources/21g_410s17_w10_m25)
+{{% resource_link 04f132da-813c-afd8-2871-4742582a4a33 "Theorie: Diskurspartikel - Logische Verbindungen im Text (PDF)" %}}
 
 Frank Dohmen und Alexander Neubaucher. "[Ofen aus](http://www.spiegel.de/spiegel/print/d-84061031.html)." Der Spiegel. August, 2012.
 
-Links: [Internetresourcen zur Forschung zum Thema “Energiewende” (PDF)]({{< baseurl >}}/resources/21g_410s17_w10_m28)
+Links: {{% resource_link ed5ee1e9-d4c2-5f58-c9ea-c6e5743853ff "Internetresourcen zur Forschung zum Thema “Energiewende” (PDF)" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Redemittel für Definitionen (PDF)]({{< baseurl >}}/resources/21g_410s17_w10_m26)
+{{% resource_link e04418b0-f512-eb79-c749-9bd2160618b7 "Redemittel für Definitionen (PDF)" %}}
 
-[Aufgabe 2 zu "Energiewende" (PDF)]({{< baseurl >}}/resources/21g_410s17_w10_m27)
+{{% resource_link 4953ed5d-52c4-3c8e-4295-b0d3774dff0b "Aufgabe 2 zu \"Energiewende\" (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -301,18 +302,18 @@ Beispiel: Konjunktiv der indirekten Rede in der Zeitung
 
 Video: Interview mit Patrick Graichen vom Think Tank “Agora Energiewende.” Welche Antworten gibt Herr Graichen auf die Fragen, die ihm gestellt wurden (siehe Arbeitsblatt).
 
-Text: ["Die wirtschaftlichen Chancen einer klugen Energiewende" (PDF)]({{< baseurl >}}/resources/21g_410s17_w11_m33)
+Text: {{% resource_link b6a9196f-5dd0-9d7f-0586-9c8562a040fd "\"Die wirtschaftlichen Chancen einer klugen Energiewende\" (PDF)" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-Arbeitsblatt zum Video: [Interview mit Patrick Graichen vom Think Tank “Agora Energiewe" (PDF)]({{< baseurl >}}/resources/21g_410s17_w11_m31)
+Arbeitsblatt zum Video: {{% resource_link e0242262-4060-2508-5efa-a4784237fce8 "Interview mit Patrick Graichen vom Think Tank “Agora Energiewe\" (PDF)" %}}
 
-[Meinungen ausdrücken, auf Meinungen reagieren (PDF)]({{< baseurl >}}/resources/21g_410s17_w11_m32)
+{{% resource_link 38b0886a-78db-5b67-390d-c14b7accab58 "Meinungen ausdrücken, auf Meinungen reagieren (PDF)" %}}
 
-[Anleitungen für die Referate (PDF)]({{< baseurl >}}/resources/21g_410s17_w11_m29)
+{{% resource_link 1a92e74e-73d5-1c2f-138e-1d6c60fbe7b7 "Anleitungen für die Referate (PDF)" %}}
 
-[Redemittel für die Referate (PDF)]({{< baseurl >}}/resources/21g_410s17_w11_m30)
+{{% resource_link e3fb750c-bff4-af61-883a-4c0037052bfd "Redemittel für die Referate (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -327,12 +328,12 @@ Woche 12
 
 \[ÜB\] Kapitel 15 (Partizipialattribute)
 
-[Beispiel für einen professionellen Vortrag (PDF)]({{< baseurl >}}/resources/21g_410s17_w12_m34)
+{{% resource_link 575e37f4-9f15-d42e-257a-638971192b8f "Beispiel für einen professionellen Vortrag (PDF)" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Hinweise zur Gliederung von Vorträgen (PDF)]({{< baseurl >}}/resources/21g_410s17_w12_m35)
+{{% resource_link 0a8e80aa-df1c-65ff-7884-c2ba9878876c "Hinweise zur Gliederung von Vorträgen (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -341,10 +342,10 @@ Woche 12
 Woche 13
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Hinweise für Redner (PDF - 3.8MB)]({{< baseurl >}}/resources/21g_410s17_w13_m36)
+{{% resource_link b6cfd68d-7940-d174-0be3-f0c30498360c "Hinweise für Redner (PDF - 3.8MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Übungen zur Prüfungsvorbereitung (PDF 1.2MB)]({{< baseurl >}}/resources/21g_410s17_w13_m37) 
+{{% resource_link c823e18d-efe2-a711-8df9-5b17104fb5bb "Übungen zur Prüfungsvorbereitung (PDF 1.2MB)" %}} 
 {{< tdclose >}}
 
 {{< trclose >}}
