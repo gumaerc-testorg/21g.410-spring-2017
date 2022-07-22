@@ -1,7 +1,13 @@
 ---
 content_type: page
+description: 'In this section, Peter Weise shares two strategies he uses to engage
+  students in communicative activities during the course: 1) emphasizing the value
+  of making mistakes and 2) varying the course structure to keep things interesting.'
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: a6d45f02-3c35-8471-8e33-a3c69474b7c4
 title: Encouraging Active Participation
 uid: 40c7d220-c435-49d3-9f90-12823f1edf36
