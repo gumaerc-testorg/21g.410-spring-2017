@@ -39,8 +39,10 @@
     "website": "21g-410-advanced-german-professional-communication-spring-2017"
   },
   "learning_resource_types": [
-    "Written Assignments"
+    "Written Assignments",
+    "Instructor Insights"
   ],
-  "site_uid": "2e87c301-2fd5-4bad-9822-189f2eff08fb",
+  "site_uid": "3e3457cf-a2e9-4806-95c9-cb88dffd90d3",
+  "site_short_id": "21g.410-spring-2017",
   "title": "Course Metadata"
 }
