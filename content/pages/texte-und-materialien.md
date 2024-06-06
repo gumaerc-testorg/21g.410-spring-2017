@@ -32,17 +32,17 @@ Woche 1
 {{< tdopen >}}
 
 
-WDR 2008: tam. "{{% resource_link "d84ec501-a60a-43c3-ad8a-b68f594ac062" "Denglish mit Jochen Busse und Susanne Petzold" %}}."  December 25, 2008. YouTube.
+WDR 2008: tam. "[Denglish mit Jochen Busse und Susanne Petzold](https://www.youtube.com/watch?v=EkGj9ZjyWWg)."  December 25, 2008. YouTube.
 
-Graf, Heinz-Jörg. "{{% resource_link "82bed71a-13ad-42fd-b45c-6b8c0a84b98c" "Das 'Denglisch'-problem" %}}." Deutschlandfunk, 29 Juli 2007.
+Graf, Heinz-Jörg. "[Das 'Denglisch'-problem](http://www.deutschlandfunk.de/das-denglisch-problem.716.de.html?dram:article_id=90394)." Deutschlandfunk, 29 Juli 2007.
 
 Leserbrief: "Der täglich Denglisch- oder Englischwahn." Das ist ein Leserbrief als Reaktion auf den Zeitungsartikel "Now is good bicycle expensive ...," den wir in der Klasse lesen werden. Wie ist die Reaktion des Lesers auf den Artikel (positiv? neutral? negativ?) Was sind seine Begründungen dafür?
 
 Denglisch im Berufsaltag. Warum wird so viel Englisch im Berufsaltag benutzt?
 
-Daniela Uhrich. "{{% resource_link "e4721641-9b3e-4c8f-8200-db30829b83a1" "Denglisch im Berufsalltag" %}}." Absolventa, 19 Januar 2010.
+Daniela Uhrich. "[Denglisch im Berufsalltag](https://www.absolventa.de/karriereguide/tipps/denglisch-im-berufsalltag)." Absolventa, 19 Januar 2010.
 
-VDSDortmund. "{{% resource_link "7374b4b4-4f2c-408f-8fcf-2951c301abaa" "Tag der deutschen Sprache 2010" %}}." September 9, 2010. YouTube.
+VDSDortmund. "[Tag der deutschen Sprache 2010](https://www.youtube.com/watch?v=czKB3KTr_g0)." September 9, 2010. YouTube.
 
 
 {{< tdclose >}}
@@ -53,7 +53,7 @@ VDSDortmund. "{{% resource_link "7374b4b4-4f2c-408f-8fcf-2951c301abaa" "Tag der 
 
 {{% resource_link 0104e537-7c07-b480-9100-78177b05a4aa "Kausalität (PDF)" %}}
 
-{{% resource_link "58c70d4c-e5b7-495d-a70c-67b95f360df5" "Das Denglisch -Quiz" %}}. Wie gut können Sie Denglisch?
+[Das Denglisch -Quiz](http://www.spiegel.de/quiztool/quiztool-58341.html). Wie gut können Sie Denglisch?
 
 
 {{< tdclose >}}
@@ -66,23 +66,23 @@ Woche 2
 {{< tdopen >}}
 
 
-Karl-Heinz Göttert. "{{% resource_link "5128a477-65b0-4069-bd45-09667d01c198" "Die deutsche Sprache muss nicht gerettet werden" %}}." Welt Online, 5 Juli 2010.
+Karl-Heinz Göttert. "[Die deutsche Sprache muss nicht gerettet werden](https://www.welt.de/debatte/kommentare/article8317714/Die-deutsche-Sprache-muss-nicht-gerettet-werden.html)." Welt Online, 5 Juli 2010.
 
-Sönke Krüger. "{{% resource_link "83ff7b77-f45d-4fc1-9af8-4a85011665e2" "Warum Denglisch Sprachmüll ist" %}}." Welt Online, 19 November 2007.
+Sönke Krüger. "[Warum Denglisch Sprachmüll ist](https://www.welt.de/vermischtes/article1366422/Warum-Denglisch-Sprachmuell-ist.html)." Welt Online, 19 November 2007.
 
-Simone Meyer. "{{% resource_link "3a2f2837-7356-4237-b7bf-04bc97306870" "Deutsch sprechen!" %}}" Welt Online, 5 August 2008.
+Simone Meyer. "[Deutsch sprechen!](https://www.welt.de/regionales/hamburg/article2276941/Deutsch-sprechen.html)" Welt Online, 5 August 2008.
 
-Hormi1. "{{% resource_link "2680428e-5406-4dea-99cc-1f7a01de49ad" "Wise Guys - Denglisch" %}}." September 28, 2007. YouTube. (Lied)
+Hormi1. "[Wise Guys - Denglisch](https://www.youtube.com/watch?v=xlQI0mfJbCc)." September 28, 2007. YouTube. (Lied)
 
-LenaLuxus. "{{% resource_link "a6bb55ff-9acd-469b-ba2a-9c8509e3314c" "Deutsch versus Denglisch" %}}." May 7, 2007. YouTube. TV-Beitrag anlaesslich der Aktion Wortpatenschaft des Verein deutsche Sprache (VDS), Interviews mit Tobias Mindner (VDS) und Prof. Jay Rutherford (Bauhaus-Universität Weimar), Autorin: Lena Libertá, Schnitt: Thomas Gondi, Sprecher: Björn Werner, Lena Libertá.
+LenaLuxus. "[Deutsch versus Denglisch](https://www.youtube.com/watch?v=_zZLw290wtI)." May 7, 2007. YouTube. TV-Beitrag anlaesslich der Aktion Wortpatenschaft des Verein deutsche Sprache (VDS), Interviews mit Tobias Mindner (VDS) und Prof. Jay Rutherford (Bauhaus-Universität Weimar), Autorin: Lena Libertá, Schnitt: Thomas Gondi, Sprecher: Björn Werner, Lena Libertá.
 
-VDSDortmund. "{{% resource_link "7a0de366-89f0-4107-b5e9-1c208550db3c" "Frank & Frei - We speak  Denglisch - Ist die deutsche Sprache out?" %}}" December 12, 2012. YouTube. (Podiumsdiskussion (Ausschnitt), Köln 2012, studio dumont.)
+VDSDortmund. "[Frank & Frei - We speak  Denglisch - Ist die deutsche Sprache out?](https://www.youtube.com/watch?v=lkMgPqIarHg)" December 12, 2012. YouTube. (Podiumsdiskussion (Ausschnitt), Köln 2012, studio dumont.)
 
-dtv Verlag. "{{% resource_link "0f144b30-0dc4-46fa-b9ec-f3177e37694d" "Interview: Jan Melzer und und Sören Sieg - COME IN" %}}." February 27, 2011. Im Interview erzählen Jan Melzer und Sören Sieg von Ihrer Arbeit and ihrem Denglisch Survival-Guide ›COME IN AND BURN OUT‹ und führen u.a. in die hohe Kunst des Publishing und des Teens-Denglisch ein...
+dtv Verlag. "[Interview: Jan Melzer und und Sören Sieg - COME IN](https://www.youtube.com/watch?v=avhZ5I-vjDg)." February 27, 2011. Im Interview erzählen Jan Melzer und Sören Sieg von Ihrer Arbeit and ihrem Denglisch Survival-Guide ›COME IN AND BURN OUT‹ und führen u.a. in die hohe Kunst des Publishing und des Teens-Denglisch ein...
 
-Eduard Erne. "{{% resource_link "736a3dcc-ef90-4385-8539-1d2ef86cd3f8" "Ist die deutsche Sprache noch zu retten?" %}}" SRF, 22 April 2014. Video und Text von Schweizer Fernsehen.
+Eduard Erne. "[Ist die deutsche Sprache noch zu retten?](http://www.srf.ch/kultur/gesellschaft-religion/ist-die-deutsche-sprache-noch-zu-retten)" SRF, 22 April 2014. Video und Text von Schweizer Fernsehen.
 
-Ulrich Greiner. "{{% resource_link "05d11ec4-b1eb-4b67-b0f8-c0b0f7b2192d" "Ist Deutsch noch zu retten?" %}}" Zeit Online. 7 Juli 2010.
+Ulrich Greiner. "[Ist Deutsch noch zu retten?](http://www.zeit.de/2010/27/Deutsch-Muttersprache/komplettansicht)" Zeit Online. 7 Juli 2010.
 
 
 {{< tdclose >}}
@@ -102,7 +102,7 @@ Ulrich Greiner. "{{% resource_link "05d11ec4-b1eb-4b67-b0f8-c0b0f7b2192d" "Ist D
 Woche 3
 {{< tdclose >}}
 {{< tdopen >}}
-Markus Dettmer und Frank Dohmen. "{{% resource_link "70f3380d-7882-476e-89e5-09beeb8333d1" "Frei schwebend in der Wolke" %}}." Wirtschaft, Juni 2012.
+Markus Dettmer und Frank Dohmen. "[Frei schwebend in der Wolke](http://www.spiegel.de/spiegel/print/d-83865244.html)." Wirtschaft, Juni 2012.
 {{< tdclose >}}
 {{< tdopen >}}
 {{% resource_link 8289e2c8-040f-18ac-c47c-8105e1cd2175 "Redemittel zur Versprachlichung von Schaubildern (PDF)" %}}
@@ -140,7 +140,7 @@ Woche 5
 
 {{% resource_link 14de6abd-99d3-405d-b292-dd58ab1cc182 "Über mein Studium sprechen (PDF)" %}}
 
-{{% resource_link "7712dd76-2e2b-40f7-9746-1de44a5ca86a" "Webseite der TU Darmstadt" %}}
+[Webseite der TU Darmstadt](https://www.tu-darmstadt.de/universitaet/selbstverstaendnis/index.de.jsp)
 
 
 {{< tdclose >}}
@@ -160,11 +160,11 @@ Nominalisierungen Uebungsgramm: \[ÜB\] 60–77
 Woche 6
 {{< tdclose >}}
 {{< tdopen >}}
-Flyer: {{% resource_link "7cce31d6-f423-4c3c-a078-bd960bd71670" "Physikstudium in Köln (PDF)" %}}
+Flyer: [Physikstudium in Köln (PDF)](http://physik.uni-koeln.de/fileadmin/Downloads/Flyer_2015_Bachelor_Physik_web.pdf)
 
-Broschüre: {{% resource_link "5345966d-32d0-4831-8767-ab7279ee779a" "Physikstudium in Zürich (PDF)" %}}
+Broschüre: [Physikstudium in Zürich (PDF)](http://intranet.mnf.uzh.ch/fileadmin/DATA_Autoren/Dokumente/Inhalte/I_Studium/I.1_zukuenftige_Studierende/I.1.2_Studienfaecher/physik_2012.pdf)
 
-Flyer: {{% resource_link "34b4df24-3efb-4a24-9e5e-7b1ff8e2be87" "Mathematikstudium in Duisburg/Essen (PDF - 13.7MB)" %}}
+Flyer: [Mathematikstudium in Duisburg/Essen (PDF - 13.7MB)](https://www.uni-due.de/imperia/md/content/mathematik/mathflyer.pdf)
 
 Broschüre: Mathematikstdium in Darmstadt
 
@@ -172,7 +172,7 @@ Flyer: Ingenieurwissenschaften in Kassel
 
 Flyer: Elektrotechnik und Informationstechnik in München
 
-{{% resource_link "35e78aad-5e48-4ab9-80f1-dce38026e210" "Flyers der Hochschule für angewandte Wissenschaften München" %}}
+[Flyers der Hochschule für angewandte Wissenschaften München](http://www.hm.edu/allgemein/studienangebote/dual/index.de.html)
 
 
 {{< tdclose >}}
@@ -200,11 +200,11 @@ Text: Berufsbilder der Informatik
 
 {{% resource_link 78905178-eae5-48fe-241b-663e2dbe969e "Text: Der Europäische Lebenslauf: Was ist das eigentlich? (PDF)" %}}
 
-Text: {{% resource_link "6e60162b-d4da-42f8-b479-94467843e332" "Der Europäische Lebenslauf: Instruktionen (PDF)" %}}
+Text: [Der Europäische Lebenslauf: Instruktionen (PDF)](http://www.europass.at/fileadmin/dateien_redaktion/lebenslauf/CVInstructionsdt.pdf)
 
-Text: {{% resource_link "b543be47-ba9c-4575-b4d7-753a955c7c12" "Der Europäische Lebenslauf: Beispiel (PDF)" %}}
+Text: [Der Europäische Lebenslauf: Beispiel (PDF)](https://www.jugendinfo.be/downloads/job/beispielCV_DE.pdf)
 
-Formular: {{% resource_link "902d5a81-fb55-431e-938b-adbbeb88d62b" "Der Europäische Lebenslauf (DOC)" %}}
+Formular: [Der Europäische Lebenslauf (DOC)](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjJ8cuFwOnXAhVr74MKHaC1A1QQFggwMAE&url=http%3A%2F%2Fwww.europass.at%2Ffileadmin%2Fdateien_redaktion%2Flebenslauf%2Flebenslauf_de.doc&usg=AOvVaw1jLLVg5eH1snoxzqXX3lWS)
 
 
 {{< tdclose >}}
@@ -226,9 +226,9 @@ Woche 8
 {{< tdopen >}}
 
 
-Video: DiePrinzenVEVO. "{{% resource_link "cbb7e462-8333-4360-8ef1-2b1b5aabb55f" "Die Prinzen \"Be cool, speak Deutsch" %}}." October 25, 2009. YouTube.
+Video: DiePrinzenVEVO. "[Die Prinzen "Be cool, speak Deutsch](https://www.youtube.com/watch?v=3-w0-lZldWA&ob=av2n)." October 25, 2009. YouTube.
 
-Video: Step1702. "{{% resource_link "0af2256e-0465-4e3f-a924-0c4a978aa6ef" "Lebenslauf gesprochen" %}}." Veoh.
+Video: Step1702. "[Lebenslauf gesprochen](http://www.veoh.com/watch/v19264128f74aExNx)." Veoh.
 
 
 {{< tdclose >}}
@@ -248,17 +248,17 @@ Video: Step1702. "{{% resource_link "0af2256e-0465-4e3f-a924-0c4a978aa6ef" "Lebe
 Woche 9
 {{< tdclose >}}
 {{< tdopen >}}
-Video: Bundestagsdebatte zur Energiewende (phoenix. "{{% resource_link "6f142683-4c3a-4948-b511-b97f9bded740" "Atomausstieg un Energiewende - Bundestag vom 09.06.2011" %}}." June 9, 2011. YouTube).
+Video: Bundestagsdebatte zur Energiewende (phoenix. "[Atomausstieg un Energiewende - Bundestag vom 09.06.2011](https://www.youtube.com/watch?v=jFm1I_1Q3Ug)." June 9, 2011. YouTube).
 
-Video: Pressekonferenz zur Energiewende (phoenix. "{{% resource_link "9ae58a03-d7f4-47aa-934f-8df9db3b4f37" "PK mit Angela Merkel zur Energiewende am 07.03. 2013" %}}." March 7, 2013. YouTube).
+Video: Pressekonferenz zur Energiewende (phoenix. "[PK mit Angela Merkel zur Energiewende am 07.03. 2013](https://www.youtube.com/watch?v=YyTmoeqy2N0)." March 7, 2013. YouTube).
 
-Text: {{% resource_link "7958243d-2261-4284-abad-7e1fe2ac91a8" "Energiewende soll Mitte Juni per Gesetz geregelt sein" %}}
+Text: [Energiewende soll Mitte Juni per Gesetz geregelt sein](http://www.contratom.de/2011/04/16/merkel-will-schnellstmoglich-ausstieg/)
 
-Text: Norbert Röttgen. "{{% resource_link "09758349-2ec8-4c7e-828a-fe60776c2d4c" "Der Masterplan für die deutsche Energiewende" %}}." Frankfurter Allgemeine Zeitung, 11 Dezember 2011.
+Text: Norbert Röttgen. "[Der Masterplan für die deutsche Energiewende](http://www.faz.net/aktuell/wirtschaft/energiepolitik-der-masterplan-fuer-die-deutsche-energiewende-11558633.html)." Frankfurter Allgemeine Zeitung, 11 Dezember 2011.
 
-Link: {{% resource_link "9b665fd7-bbd5-40aa-a686-62f55282d4e7" "Beschlüsse des Bundeskabinetts zur Energiewende vom 6. Juni 2011. (PDF)" %}}
+Link: [Beschlüsse des Bundeskabinetts zur Energiewende vom 6. Juni 2011. (PDF)](https://www.nachhaltigkeit.info/media/1326187886phpeJPyvC.pdf)
 
-Link: {{% resource_link "ce5c234d-f0f1-4b9c-973a-b804093aaf63" "Die Energiwende im Überblick (Bundsministerium für Umwelt)" %}}
+Link: [Die Energiwende im Überblick (Bundsministerium für Umwelt)](https://www.bundesregierung.de/Content/DE/StatischeSeiten/Breg/Energiekonzept/0-Buehne/ma%C3%9Fnahmen-im-ueberblick.html)
 
 
 {{< tdclose >}}
@@ -274,7 +274,7 @@ Woche 10
 {{< tdopen >}}
 {{% resource_link 04f132da-813c-afd8-2871-4742582a4a33 "Theorie: Diskurspartikel - Logische Verbindungen im Text (PDF)" %}}
 
-Frank Dohmen und Alexander Neubaucher. "{{% resource_link "c15789ff-e06b-46e6-83a7-b877986532d7" "Ofen aus" %}}." Der Spiegel. August, 2012.
+Frank Dohmen und Alexander Neubaucher. "[Ofen aus](http://www.spiegel.de/spiegel/print/d-84061031.html)." Der Spiegel. August, 2012.
 
 Links: {{% resource_link ed5ee1e9-d4c2-5f58-c9ea-c6e5743853ff "Internetresourcen zur Forschung zum Thema “Energiewende” (PDF)" %}}
 
