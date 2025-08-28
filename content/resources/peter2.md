@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21g-410-advanced-german-professional-communication-spring-2017/77d6a56671d000aa7e9f006bd751c62a_Peter2.jpg
+file: /ol-ocw-studio-app/courses/21g-410-advanced-german-professional-communication-spring-2017/77d6a56671d000aa7e9f006bd751c62a_Peter2.jpg
 file_size: 21863
 file_type: image/jpeg
 image_metadata:
